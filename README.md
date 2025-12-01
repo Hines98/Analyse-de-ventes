@@ -2,7 +2,7 @@
 Deli'V est une chaîne de distribution alimentaire en pleine expansion, opérant 10 points de vente répartis sur trois zones géographiques (Zone 1, 2 et 3). Face à une concurrence accrue dans le secteur de la distribution rapide, l'entreprise souhaite optimiser ses performances commerciales et mieux comprendre les dynamiques de vente de son catalogue de produits.
 La direction a sollicité une analyse approfondie des données de ventes pour identifier les leviers de croissance, optimiser l'assortiment produits selon les zones géographiques, et améliorer la stratégie de merchandising.
 
-#### [Télécharger les données](https://github.com/Hines98/Analyse-commerciale/tree/main/Donn%C3%A9es)
+#### [Télécharger les données](https://github.com/Hines98/Analyse-de-ventes/blob/main/Donn%C3%A9es.json)
 #### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pbix)
 #### [Télécharger la version PDF du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pdf)
 
