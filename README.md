@@ -3,8 +3,8 @@ Deli'V est une chaîne de distribution alimentaire en pleine expansion, opérant
 La direction a sollicité une analyse approfondie des données de ventes pour identifier les leviers de croissance, optimiser l'assortiment produits selon les zones géographiques, et améliorer la stratégie de merchandising.
 
 #### [Télécharger les données](https://github.com/Hines98/Analyse-de-ventes/blob/main/Donn%C3%A9es.json)
-#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pbix)
-#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pdf)
+#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse-de-ventes/blob/main/Report.pbix)
+#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Analyse-de-ventes/blob/main/Report.pdf)
 
 ## Synthèse
 <img width="1276" height="732" alt="image" src="https://github.com/user-attachments/assets/2b919627-4f73-4c6c-9390-02c65fc7399b" />
